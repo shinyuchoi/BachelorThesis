@@ -629,7 +629,7 @@ def increase_happy():
 @app.route('/activities/<int:user_id>', methods=['GET'])
 def get_activities(user_id):
     activities = []
-    for i in range(49,56):
+    for i in range(7):
         date = (datetime.now() - timedelta(days=i)).date()
         cur = flask_mysql.connection.cursor()
         cur.execute("""
