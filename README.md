@@ -22,7 +22,9 @@ The server handles all incoming requests from the client. It processes data usin
 ### 🗄️ Database (MySQL)
 The database stores persistent user data, including pet status, owned items, and activity records (e.g., distance walked, steps taken, duration). This data enables the system to deliver a personalized and consistent experience across user sessions.
 
+## 🧭 Scene Structure
 
+![API Reference](/FinalPresentation/images/1.png)
 ## 📡 API Reference
 
 Below are the main API endpoints provided by the Flask server:
