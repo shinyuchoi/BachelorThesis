@@ -32,3 +32,8 @@ Below are the main API endpoints provided by the Flask server:
 
 ## 🖼️ UI Example
 ![UI Example](/FinalPresentation/images/NevigateScene.png)
+
+
+## 📄 Project Documents
+- 📘 [Full Thesis (PDF)](FinalPresentation/Thesis_Shin-yu,Choi.pdf)  
+- 📊 [Final Presentation (PPTX)](FinalPresentation/Final-Presentation.pptx)
