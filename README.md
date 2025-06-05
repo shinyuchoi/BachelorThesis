@@ -24,9 +24,11 @@ The database stores persistent user data, including pet status, owned items, and
 
 ## 🧭 Scene Structure
 
-![API Reference](/FinalPresentation/images/1.png)
+![Scene Structure](/FinalPresentation/images/1.png)
 ## 📡 API Reference
 
 Below are the main API endpoints provided by the Flask server:
 ![API Reference](/FinalPresentation/images/implementation_server.png)
 
+## 🖼️ UI Example
+![UI Example](/FinalPresentation/images/NevigateScene.png)
