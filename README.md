@@ -4,3 +4,6 @@ _Bachelor Thesis – Informatik: Games Engineering_
 Author: Choi Shin-yu  
 
 
+**Implementation**
+![Implementation](FinalPresentation/1.png)
+
